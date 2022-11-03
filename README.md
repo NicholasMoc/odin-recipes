@@ -1,1 +1,2 @@
 # odin-recipes
+I practice html by creating recipe pages. I added images, unordered lists, ordered lists, h1, h2, and paragraph formatting to create recipe pages. Each page includes, ingredients, steps, description, and a picture.
